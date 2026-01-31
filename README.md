@@ -1,6 +1,6 @@
 # 🎓 GitHub Learning Repository
 
-Welcome to your first GitHub repository! This is a practice project to learn the basics of version control.
+Welcome to your first GitHub repository! This is a practice project to learn the basics of version control. Enjoy the journey!!
 
 ## 🎯 What You'll Learn
 

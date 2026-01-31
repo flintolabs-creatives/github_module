@@ -1,0 +1,10 @@
+# Students in GitHub Basics Course
+
+Add your name below! Format: Name - Date
+
+Example: Janani Ravi - January 31, 2026
+
+---
+
+<!-- Add your name below this line -->
+

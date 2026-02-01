@@ -4,9 +4,13 @@ Add your name below! Format: Name - Date
 
 Example: Janani Ravi - January 31, 2026
 
+You can also add anything else you want beside your name
+
 ---
 
 <!-- Add your name below this line -->
 Jane Doe - January 31 2026 edited this file.
 John Doe - January 31 2026
+Sanaya Verma - January 31 2026
+
 
